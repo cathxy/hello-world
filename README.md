@@ -1,7 +1,4 @@
 # hello-world
-first commit
+My first repository.
 
-;dlfks;dlkg;lsdakg;ldsk
-
-
-gsadgkjsadlkgjsadg
+My first commit.
